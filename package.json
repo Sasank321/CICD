@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://<Sasank321>.github.io/CICD>",
+  "homepage": "https://Sasank321.github.io/CICD>",
 
   "scripts": {
     "dev": "vite",
